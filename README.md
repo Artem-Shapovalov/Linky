@@ -429,11 +429,3 @@ that this section would be enough to clearly understand the project.
 ## Context structure
 
 <img src="./doc/diagram_context.png" width="300">
-
-# License
-
-Asshole Public Licence (APL):
-
-If you like this code, just tell your buddies about it or you'll be an asshole.
-
-Yes, it's the full text of the licence. Simple, right?
